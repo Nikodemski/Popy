@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744651407 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\praca.domowa.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

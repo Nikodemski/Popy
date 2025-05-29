@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1745070242 source:c:\users\nikod\desktop\studia\praca.domowa.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1745335462 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\praca.domowa.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

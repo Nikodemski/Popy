@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745595242 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\struktury\zadaniedomowe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1745589992 c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\struktury\zadaniedomowe\lista.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1746883436 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy\szyfrator\main.cpp
+	<iostream>
+	"szyfrator.h"
+
+1746883555 c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy\szyfrator\szyfrator.h
+	<string>
+
+1746883220 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy\szyfrator\szyfrator.cpp
+	"szyfrator.h"
+	<iostream>
+	<string>
+

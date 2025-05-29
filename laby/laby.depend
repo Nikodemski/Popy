@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747782750 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\laby\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

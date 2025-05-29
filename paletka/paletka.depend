@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1684306554 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/main.cpp
+	<iostream>
+	<cstdio>
+	<chrono>
+	<thread>
+	"plansza.h"
+
+1684238154 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/paletka.cpp
+	"paletka.h"
+	<cstdio>
+
+1684309188 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/paletka.h
+
+1684309131 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/plansza.cpp
+	"plansza.h"
+	"paletka.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1684264893 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/plansza.h
+	"paletka.h"
+
+1684264249 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/main.cpp
+	<iostream>
+	<cstdio>
+	<chrono>
+	<thread>
+	"plansza.h"
+
+1684264005 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/plansza.h
+	"paletka.h"
+
+1684255727 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/paletka.h
+
+1684238154 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/paletka.cpp
+	"paletka.h"
+	<cstdio>
+
+1684264007 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/plansza.cpp
+	"plansza.h"
+	"paletka.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"mojapaletka.h"
+
+1684264330 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/mojapaletka.cpp
+	"mojapaletka.h"
+
+1684255714 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/mojapaletka.h
+	"paletka.h"
+
+1684264330 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/mojapaletka.cpp
+	"mojapaletka.h"
+
+1684255714 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/mojapaletka.h
+	"paletka.h"
+
+1684241754 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\src\paletka.cpp
+	"paletka.h"
+	<cstdio>
+
+1747270999 c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\include\paletka.h
+
+1747334707 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\src\plansza.cpp
+	"plansza.h"
+	"paletka.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"mojapaletka.h"
+
+1747334917 c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\include\plansza.h
+	"paletka.h"
+
+1747334870 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\main.cpp
+	<iostream>
+	<cstdio>
+	<chrono>
+	<thread>
+	"plansza.h"
+
+1747264617 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\mojapaletka.cpp
+	"mojapaletka.h"
+	<iostream>
+	<string>
+
+1747264619 c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\mojapaletka.h
+	<iostream>
+	<string>
+	"paletka.h"
+
+1747270388 c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\include\mojapaletka.h
+	<iostream>
+	<string>
+	"paletka.h"
+
+1747334756 source:c:\users\nikodem\desktop\studia\s.lato2025\podstawy_programowania\klasy1\klasy\paletka\src\mojapaletka.cpp
+	"mojapaletka.h"
+	<iostream>
+	<string>
+	<cstdio>
+
